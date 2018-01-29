@@ -1,5 +1,8 @@
 #database:
 *.db
 
+#database connection
+DBConnect.js
+
 node_modules/
 bootstrap-3.3.7-dist/
